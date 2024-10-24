@@ -1,0 +1,15 @@
+ComfyUI-Malefish-Custom-Scripts
+comfyui_LLM_party
+ComfyUI-WD14-Tagger
+PuLID_ComfyUI
+https://github.com/cubiq/PuLID_ComfyUI
+
+comfyui-reactor-node
+这是一个用于ComfyUI的反应堆节点插件。
+
+ComfyUI_InstantID
+换脸插件
+
+comfyui-mixlab-nodes
+这是一个用于ComfyUI的混合实验室节点插件。
+

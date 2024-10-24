@@ -1,0 +1,830 @@
+oss2:
+  - BizyAir
+
+crcmod:
+  - BizyAir
+
+requests:
+  - BizyAir
+  - Comfyui_Comfly
+  - ComfyUI_Fill-Nodes
+
+aiofiles:
+  - BizyAir
+
+opencv-python:
+  - comfyui-animatediff
+  - comfyui-art-venture
+  - ComfyUI-Easy-Use
+  - ComfyUI-IC-Light
+  - ComfyUI-Inspire-Pack
+  - ComfyUI-KJNodes
+  - ComfyUI-VideoHelperSuite
+  - ComfyUI_FaceShaper
+  - stability-ComfyUI-nodes
+  - x-flux-comfyui
+
+timm:
+  - comfyui-art-venture
+  - ComfyUI-Florence2
+  - ComfyUI-Miaoshouai-Tagger
+  - ComfyUI-SAM2
+  - comfyui_segment_anything
+
+transformers:
+  - comfyui-art-venture
+  - ComfyUI-Impact-Pack
+  - ComfyUI-Manager
+  - ComfyUI-VisualQueryTemplate
+  - Comfyui_Comfly
+  - comfyui_LLM_party
+  - Comfyui_MiniCPMv2_6-prompt-generator
+  - was-node-suite-comfyui
+  - x-flux-comfyui
+
+fairscale:
+  - comfyui-art-venture
+
+pycocoevalcap:
+  - comfyui-art-venture
+
+qrcode[pil]:
+  - comfyui-art-venture
+  - comfy_mtb
+
+pytorch_lightning:
+  - comfyui-art-venture
+
+kornia:
+  - comfyui-art-venture
+  - ComfyUI_Fill-Nodes
+
+pydantic:
+  - comfyui-art-venture
+
+segment_anything:
+  - comfyui-art-venture
+  - comfyui_segment_anything
+
+omegaconf:
+  - comfyui-art-venture
+  - ComfyUI-SUPIR
+  - comfyui_controlnet_aux
+
+boto3>=1.34.101:
+  - comfyui-art-venture
+
+diffusers>=0.27.0:
+  - ComfyUI-BrushNet
+
+accelerate>=0.29.0:
+  - ComfyUI-BrushNet
+
+peft>=0.7.0:
+  - ComfyUI-BrushNet
+
+deepdiff:
+  - ComfyUI-Crystools
+
+torch:
+  - ComfyUI-Crystools
+  - ComfyUI-VisualQueryTemplate
+  - Comfyui_Comfly
+  - comfyui_controlnet_aux
+  - PowerNoiseSuite
+
+numpy:
+  - ComfyUI-Crystools
+  - ComfyUI-LLMs
+  - ComfyUI-VisualQueryTemplate
+  - Comfyui_Comfly
+  - comfyui_controlnet_aux
+  - ComfyUI_FizzNodes
+  - Comfyui_MiniCPMv2_6-prompt-generator
+  - was-node-suite-comfyui
+
+Pillow>=9.5.0:
+  - ComfyUI-Crystools
+
+pynvml:
+  - ComfyUI-Crystools
+
+py-cpuinfo:
+  - ComfyUI-Crystools
+  - comfyui_LLM_party
+
+piexif:
+  - ComfyUI-Crystools
+  - ComfyUI-Impact-Pack
+
+dynamicprompts==0.30.2:
+  - comfyui-dynamicprompts
+
+diffusers:
+  - ComfyUI-Easy-Use
+  - x-flux-comfyui
+
+accelerate:
+  - ComfyUI-Easy-Use
+  - ComfyUI-KwaiKolorsWrapper
+  - ComfyUI-SUPIR
+  - comfyui_LLM_party
+  - Comfyui_MiniCPMv2_6-prompt-generator
+
+clip_interrogator>=0.6.0:
+  - ComfyUI-Easy-Use
+
+lark-parser:
+  - ComfyUI-Easy-Use
+
+onnxruntime:
+  - ComfyUI-Easy-Use
+  - ComfyUI_FaceAnalysis
+
+sentencepiece:
+  - ComfyUI-Easy-Use
+  - ComfyUI-KwaiKolorsWrapper
+  - Comfyui_MiniCPMv2_6-prompt-generator
+  - x-flux-comfyui
+
+spandrel:
+  - ComfyUI-Easy-Use
+
+diffusers>=0.30.0:
+  - ComfyUI-eesahesNodes
+
+einops>=0.7.0:
+  - ComfyUI-eesahesNodes
+  - ComfyUI-FluxTrainer
+
+transformers>=4.39.0:
+  - ComfyUI-Florence2
+
+matplotlib:
+  - ComfyUI-Florence2
+  - ComfyUI-FluxTrainer
+  - ComfyUI-Impact-Pack
+  - ComfyUI-Inspire-Pack
+  - ComfyUI-KJNodes
+  - ComfyUI-Marigold
+  - ComfyUI-Miaoshouai-Tagger
+  - comfyui_controlnet_aux
+  - ComfyUI_Fill-Nodes
+  - comfy_mtb
+  - was-node-suite-comfyui
+
+pillow>= 10.2.0:
+  - ComfyUI-Florence2
+
+peft:
+  - ComfyUI-Florence2
+  - comfyui_LLM_party
+
+accelerate>=0.26.0:
+  - ComfyUI-Florence2
+
+accelerate>=0.33.0:
+  - ComfyUI-FluxTrainer
+
+numpy<=1.26.4:
+  - ComfyUI-FluxTrainer
+  - ComfyUI-segment-anything-2
+  - ComfyUI_FaceShaper
+
+transformers>=4.44.0:
+  - ComfyUI-FluxTrainer
+  - ComfyUI_SLK_joy_caption_two
+
+diffusers>=0.25.0:
+  - ComfyUI-FluxTrainer
+
+ftfy>=6.1.1:
+  - ComfyUI-FluxTrainer
+
+opencv-python>=4.7.0.68:
+  - ComfyUI-FluxTrainer
+
+bitsandbytes>=0.44.0:
+  - ComfyUI-FluxTrainer
+
+prodigyopt>=1.0:
+  - ComfyUI-FluxTrainer
+
+lion-pytorch>=0.0.6:
+  - ComfyUI-FluxTrainer
+
+safetensors>=0.4.4:
+  - ComfyUI-FluxTrainer
+
+altair>=4.2.2:
+  - ComfyUI-FluxTrainer
+
+toml>=0.10.2:
+  - ComfyUI-FluxTrainer
+
+voluptuous>=0.13.1:
+  - ComfyUI-FluxTrainer
+
+huggingface-hub>=0.24.5:
+  - ComfyUI-FluxTrainer
+
+# for Image utils:
+  - ComfyUI-FluxTrainer
+
+imagesize>=1.4.1:
+  - ComfyUI-FluxTrainer
+
+rich>=13.7.0:
+  - ComfyUI-FluxTrainer
+
+came_pytorch:
+  - ComfyUI-FluxTrainer
+
+# for T5XXL tokenizer (SD3/FLUX):
+  - ComfyUI-FluxTrainer
+
+sentencepiece>=0.2.0:
+  - ComfyUI-FluxTrainer
+
+protobuf:
+  - ComfyUI-FluxTrainer
+
+schedulefree>=1.2.7:
+  - ComfyUI-FluxTrainer
+
+google-generativeai>0.4.1:
+  - ComfyUI-Gemini
+
+gguf>=0.9.1:
+  - ComfyUI-GGUF
+
+numpy<2.0.0:
+  - ComfyUI-GGUF
+
+segment-anything:
+  - ComfyUI-Impact-Pack
+
+scikit-image:
+  - ComfyUI-Impact-Pack
+  - comfyui_controlnet_aux
+
+opencv-python-headless:
+  - ComfyUI-Impact-Pack
+
+GitPython:
+  - ComfyUI-Impact-Pack
+  - ComfyUI-Manager
+  - Comfyui_Comfly
+  - Comfyui_Comfly
+  - x-flux-comfyui
+
+scipy>=1.11.4:
+  - ComfyUI-Impact-Pack
+
+numpy<2:
+  - ComfyUI-Impact-Pack
+  - ComfyUI-Inspire-Pack
+  - ComfyUI-SAM2
+
+dill:
+  - ComfyUI-Impact-Pack
+
+cachetools:
+  - ComfyUI-Inspire-Pack
+
+webcolors:
+  - ComfyUI-Inspire-Pack
+
+pillow>=10.3.0:
+  - ComfyUI-KJNodes
+
+scipy:
+  - ComfyUI-KJNodes
+  - ComfyUI-Marigold
+  - comfyui_controlnet_aux
+  - was-node-suite-comfyui
+
+color-matcher:
+  - ComfyUI-KJNodes
+
+huggingface_hub:
+  - ComfyUI-KJNodes
+  - comfyui_controlnet_aux
+  - ComfyUI_HF_Servelress_Inference
+  - Comfyui_MiniCPMv2_6-prompt-generator
+
+mss:
+  - ComfyUI-KJNodes
+
+diffusers>=0.28.2:
+  - ComfyUI-KwaiKolorsWrapper
+
+transformers>=4.26.1:
+  - ComfyUI-KwaiKolorsWrapper
+
+cpm-kernels:
+  - ComfyUI-KwaiKolorsWrapper
+
+openai ~= 1.2.3:
+  - ComfyUI-LLMs
+
+gradio_client:
+  - ComfyUI-LLMs
+
+pillow:
+  - ComfyUI-LLMs
+  - Comfyui_MiniCPMv2_6-prompt-generator
+  - comfy_mtb
+
+google-generativeai:
+  - ComfyUI-LLMs
+  - comfyui_LLM_party
+
+dashscope:
+  - ComfyUI-LLMs
+
+zhipuai:
+  - ComfyUI-LLMs
+
+PyGithub:
+  - ComfyUI-Manager
+
+matrix-client==0.4.0:
+  - ComfyUI-Manager
+
+huggingface-hub>0.20:
+  - ComfyUI-Manager
+
+typer:
+  - ComfyUI-Manager
+
+rich:
+  - ComfyUI-Manager
+  - comfy_mtb
+
+typing-extensions:
+  - ComfyUI-Manager
+
+accelerate>=0.22.0:
+  - ComfyUI-Marigold
+
+diffusers>=0.28.0:
+  - ComfyUI-Marigold
+
+torch>=2.0.1:
+  - ComfyUI-Marigold
+
+transformers>=4.32.1:
+  - ComfyUI-Marigold
+
+huggingface-hub:
+  - ComfyUI-Marigold
+  - Comfyui_Comfly
+
+transformers>=4.38.0:
+  - ComfyUI-Miaoshouai-Tagger
+
+pillow >= 10.2.0:
+  - ComfyUI-Miaoshouai-Tagger
+
+ollama:
+  - comfyui-ollama
+  - ComfyUi-Ollama-YN
+  - ComfyUI_Fill-Nodes
+
+pandas:
+  - ComfyUi-Ollama-YN
+  - ComfyUI_FizzNodes
+  - comfyui_LLM_party
+
+aiohttp:
+  - ComfyUi-Ollama-YN
+  - Comfyui_Comfly
+  - ComfyUI_Fill-Nodes
+
+addict:
+  - ComfyUI-SAM2
+  - comfyui_controlnet_aux
+  - comfyui_segment_anything
+
+yapf:
+  - ComfyUI-SAM2
+  - comfyui_controlnet_aux
+  - comfyui_segment_anything
+
+tqdm>=4.66.1:
+  - ComfyUI-SAM2
+
+hydra-core>=1.3.2:
+  - ComfyUI-SAM2
+
+iopath>=0.1.10:
+  - ComfyUI-SAM2
+
+pillow>=9.4.0:
+  - ComfyUI-SAM2
+
+matplotlib>=3.9.1:
+  - ComfyUI-SAM2
+
+opencv-python>=4.7.0:
+  - ComfyUI-SAM2
+
+pyyaml:
+  - ComfyUI-segment-anything-2
+  - comfyui_controlnet_aux
+  - ComfyUI_FaceShaper
+
+iopath:
+  - ComfyUI-segment-anything-2
+
+transformers>=4.28.1:
+  - ComfyUI-SUPIR
+
+open-clip-torch>=2.24.0:
+  - ComfyUI-SUPIR
+
+Pillow>=9.4.0:
+  - ComfyUI-SUPIR
+
+pytorch-lightning>=2.2.1:
+  - ComfyUI-SUPIR
+
+imageio-ffmpeg:
+  - ComfyUI-VideoHelperSuite
+
+send2trash:
+  - comfyui-workspace-manager
+
+gray2color:
+  - comfyui_bmad_nodes
+
+opencv-python~=4.8.1.78:
+  - comfyui_bmad_nodes
+
+scikit-image~=0.20.0:
+  - comfyui_bmad_nodes
+
+aiohttp-cors:
+  - Comfyui_Comfly
+
+Pillow:
+  - Comfyui_Comfly
+  - comfyui_controlnet_aux
+
+matrix-client:
+  - Comfyui_Comfly
+
+split_image:
+  - Comfyui_Comfly
+
+psutil:
+  - Comfyui_Comfly
+  - comfyui_LLM_party
+
+importlib_metadata:
+  - comfyui_controlnet_aux
+
+opencv-python>=4.7.0.72:
+  - comfyui_controlnet_aux
+
+filelock:
+  - comfyui_controlnet_aux
+
+einops:
+  - comfyui_controlnet_aux
+
+torchvision:
+  - comfyui_controlnet_aux
+
+python-dateutil:
+  - comfyui_controlnet_aux
+
+mediapipe:
+  - comfyui_controlnet_aux
+  - ComfyUI_FaceShaper
+
+svglib:
+  - comfyui_controlnet_aux
+
+fvcore:
+  - comfyui_controlnet_aux
+
+ftfy:
+  - comfyui_controlnet_aux
+
+yacs:
+  - comfyui_controlnet_aux
+
+trimesh[easy]:
+  - comfyui_controlnet_aux
+
+albumentations:
+  - comfyui_controlnet_aux
+
+scikit-learn:
+  - comfyui_controlnet_aux
+  - was-node-suite-comfyui
+
+numba:
+  - ComfyUI_essentials
+  - was-node-suite-comfyui
+
+colour-science:
+  - ComfyUI_essentials
+
+rembg:
+  - ComfyUI_essentials
+  - comfy_mtb
+  - was-node-suite-comfyui
+
+pixeloe:
+  - ComfyUI_essentials
+
+transparent-background:
+  - ComfyUI_essentials
+
+dlib:
+  - ComfyUI_FaceAnalysis
+
+insightface:
+  - ComfyUI_FaceAnalysis
+
+color_matcher:
+  - ComfyUI_FaceAnalysis
+
+onnxruntime-gpu:
+  - ComfyUI_FaceShaper
+  - comfy_mtb
+
+pykalman:
+  - ComfyUI_FaceShaper
+
+onnx2torch:
+  - ComfyUI_FaceShaper
+
+librosa:
+  - ComfyUI_Fill-Nodes
+  - comfyui_LLM_party
+
+sounddevice:
+  - ComfyUI_Fill-Nodes
+  - comfyui_LLM_party
+
+glitch_this:
+  - ComfyUI_Fill-Nodes
+
+PyOpenGL:
+  - ComfyUI_Fill-Nodes
+
+glfw:
+  - ComfyUI_Fill-Nodes
+
+scipy >=1.13.1:
+  - ComfyUI_Fill-Nodes
+
+moviepy:
+  - ComfyUI_Fill-Nodes
+  - comfyui_LLM_party
+
+reportlab:
+  - ComfyUI_Fill-Nodes
+  - ComfyUI_Fill-Nodes
+
+openai:
+  - ComfyUI_Fill-Nodes
+  - comfyui_LLM_party
+
+PyPDF2:
+  - ComfyUI_Fill-Nodes
+  - ComfyUI_Fill-Nodes
+
+pdf2image:
+  - ComfyUI_Fill-Nodes
+
+PyMuPDF:
+  - ComfyUI_Fill-Nodes
+
+numexpr:
+  - ComfyUI_FizzNodes
+
+beautifulsoup4:
+  - comfyui_LLM_party
+
+docx2txt:
+  - comfyui_LLM_party
+
+langchain:
+  - comfyui_LLM_party
+
+langchain_community:
+  - comfyui_LLM_party
+
+langchain_text_splitters:
+  - comfyui_LLM_party
+
+openpyxl:
+  - comfyui_LLM_party
+
+pytz:
+  - comfyui_LLM_party
+
+Requests:
+  - comfyui_LLM_party
+
+xlrd:
+  - comfyui_LLM_party
+
+faiss-cpu:
+  - comfyui_LLM_party
+
+websocket-client:
+  - comfyui_LLM_party
+
+streamlit:
+  - comfyui_LLM_party
+
+virtualenv:
+  - comfyui_LLM_party
+
+tiktoken:
+  - comfyui_LLM_party
+
+transformers_stream_generator:
+  - comfyui_LLM_party
+
+optimum:
+  - comfyui_LLM_party
+
+pdfplumber:
+  - comfyui_LLM_party
+
+wikipedia:
+  - comfyui_LLM_party
+
+arxiv:
+  - comfyui_LLM_party
+
+bitsandbytes:
+  - comfyui_LLM_party
+  - Comfyui_MiniCPMv2_6-prompt-generator
+
+fastapi:
+  - comfyui_LLM_party
+
+diskcache:
+  - comfyui_LLM_party
+
+requests_toolbelt:
+  - comfyui_LLM_party
+
+tabulate:
+  - comfyui_LLM_party
+
+charset_normalizer:
+  - comfyui_LLM_party
+
+tenacity:
+  - comfyui_LLM_party
+
+cpm_kernels:
+  - comfyui_LLM_party
+
+pydub:
+  - comfyui_LLM_party
+
+keyboard:
+  - comfyui_LLM_party
+
+neo4j:
+  - comfyui_LLM_party
+
+soundfile:
+  - comfyui_LLM_party
+
+langchain_openai:
+  - comfyui_LLM_party
+
+sentence_transformers:
+  - comfyui_LLM_party
+
+uvicorn:
+  - comfyui_LLM_party
+
+llama_index:
+  - comfyui_LLM_party
+
+html2image:
+  - comfyui_LLM_party
+
+markdown:
+  - comfyui_LLM_party
+
+selenium:
+  - comfyui_LLM_party
+
+ffmpeg-python:
+  - comfyui_LLM_party
+
+html5lib:
+  - comfyui_LLM_party
+
+easyocr:
+  - comfyui_LLM_party
+
+feedparser:
+  - comfyui_LLM_party
+
+verovio:
+  - comfyui_LLM_party
+
+mdtex2html:
+  - comfyui_LLM_party
+
+markdownify:
+  - comfyui_LLM_party
+
+srt:
+  - comfyui_LLM_party
+
+decord:
+  - Comfyui_MiniCPMv2_6-prompt-generator
+
+huggingface_hub>=0.23.4:
+  - ComfyUI_SLK_joy_caption_two
+
+numpy==1.26.4:
+  - ComfyUI_SLK_joy_caption_two
+
+sentencepiece==0.2.0:
+  - ComfyUI_SLK_joy_caption_two
+
+pillow>=10.4.0:
+  - ComfyUI_SLK_joy_caption_two
+
+bitsandbytes>=0.44.1:
+  - ComfyUI_SLK_joy_caption_two
+
+peft>=0.12.0:
+  - ComfyUI_SLK_joy_caption_two
+
+requirements-parser:
+  - comfy_mtb
+
+# opencv-contrib:
+  - comfy_mtb
+
+imageio_ffmpeg:
+  - comfy_mtb
+
+rich_argparse:
+  - comfy_mtb
+
+clip-interrogator:
+  - efficiency-nodes-comfyui
+
+simpleeval:
+  - efficiency-nodes-comfyui
+
+cmake:
+  - was-node-suite-comfyui
+
+fairscale>=0.4.4:
+  - was-node-suite-comfyui
+
+git+https://github.com/WASasquatch/img2texture.git:
+  - was-node-suite-comfyui
+
+git+https://github.com/WASasquatch/cstr:
+  - was-node-suite-comfyui
+
+gitpython:
+  - was-node-suite-comfyui
+
+imageio:
+  - was-node-suite-comfyui
+
+joblib:
+  - was-node-suite-comfyui
+
+opencv-python-headless[ffmpeg]<=4.7.0.72:
+  - was-node-suite-comfyui
+
+pilgram:
+  - was-node-suite-comfyui
+
+git+https://github.com/WASasquatch/ffmpy.git:
+  - was-node-suite-comfyui
+
+scikit-image>=0.20.0:
+  - was-node-suite-comfyui
+
+timm>=0.4.12:
+  - was-node-suite-comfyui
+
+tqdm:
+  - was-node-suite-comfyui
+
+einops==0.8.0:
+  - x-flux-comfyui
+

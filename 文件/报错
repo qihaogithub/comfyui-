@@ -1,0 +1,38 @@
+WARNING: Ignoring invalid distribution -illow (e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages)                                 
+WARNING: Ignoring invalid distribution -illow (e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages)                                 
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple, https://pypi.oystermercury.top/ms                                            
+Looking in links: https://mirror.sjtu.edu.cn/pytorch-wheels/torch_stable.html                                                            
+Requirement already satisfied: huggingface_hub==0.23.4 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 1)) (0.23.4)                                          
+Requirement already satisfied: transformers>=4.44.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 2)) (4.45.2)                                             
+Requirement already satisfied: numpy==1.26.4 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 3)) (1.26.4)                                                    
+Requirement already satisfied: sentencepiece==0.2.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 4)) (0.2.0)                                              
+Requirement already satisfied: pillow>=10.4.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 5)) (10.4.0)                                                   
+Collecting bitsandbytes>=0.44.1                                                                                                          
+  Downloading https://mirrors.aliyun.com/pypi/packages/5f/f5/11bddebb5addc0a005b0c1cecc6e4c6e4055ad7b860bdcbf6374e12a51f5/bitsandbytes-0.44.1-py3-none-win_amd64.whl (121.5 MB)                                                                                                   
+Requirement already satisfied: peft>=0.12.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI_SLK_joy_caption_two\requirements.txt (line 7)) (0.13.2)                                                     
+Collecting accelerate>=0.33.0                                                                                                            
+  Downloading https://mirrors.aliyun.com/pypi/packages/2c/92/48aec3736ca778ffe5fa68e19e3c18917cba4de43fa46fe6176cccafe267/accelerate-1.0.1-py3-none-any.whl (330 kB)                                                                                                              
+Requirement already satisfied: diffusers>=0.25.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 4)) (0.30.3)                                                        
+Requirement already satisfied: ftfy>=6.1.1 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 5)) (6.1.1)                                                               
+Requirement already satisfied: opencv-python>=4.7.0.68 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 6)) (4.8.1.78)                                                
+Requirement already satisfied: einops>=0.7.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 7)) (0.8.0)                                                             
+Requirement already satisfied: prodigyopt>=1.0 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 9)) (1.0)                                                             
+Requirement already satisfied: lion-pytorch>=0.0.6 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 10)) (0.2.2)                                                      
+Requirement already satisfied: safetensors>=0.4.4 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 11)) (0.4.5)                                                       
+Requirement already satisfied: altair>=4.2.2 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 12)) (5.4.1)                                                            
+Requirement already satisfied: toml>=0.10.2 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 13)) (0.10.2)                                                            
+Requirement already satisfied: voluptuous>=0.13.1 in e:\comfyui-aki\comfyui-aki-v1.3\python\lib\site-packages (from -r E:\ComfyUI-aki\ComfyUI-aki-v1.3\custom_nodes\ComfyUI-FluxTrainer\requirements.txt (line 14)) (0.15.2)                                                      
+ERROR: Cannot install huggingface-hub>=0.24.5 and huggingface_hub==0.23.4 because these package versions have conflicting dependencies.  
+                                                                                                                                         
+The conflict is caused by:                                                                                                               
+    The user requested huggingface_hub==0.23.4                                                                                           
+    The user requested huggingface-hub>=0.24.5                                                                                           
+                                                                                                                                         
+To fix this you could try to:                                                                                                            
+1. loosen the range of package versions you've specified                                                                                 
+2. remove package versions to allow pip attempt to solve the dependency conflict                                                         
+                                                                                                                                         
+ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts
+                                                                                                                                         
+--------                                                                                                                                 
+[程序异常退出，退出代码为 1 (0x00000001)]
